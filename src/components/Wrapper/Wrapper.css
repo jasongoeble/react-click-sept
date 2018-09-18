@@ -1,0 +1,12 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    height: 100%;
+    background-origin: border-box;
+    display: flex;
+    background-size: cover;
+    background-position: 400px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow-y: auto;
+}

@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "https://imgs.xkcd.com/comics/barrel_cropped_(1).jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://imgs.xkcd.com/comics/tree_cropped_(1).jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://imgs.xkcd.com/comics/island_color.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://imgs.xkcd.com/comics/landscape_cropped_(1).jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://imgs.xkcd.com/comics/blownapart_color.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://imgs.xkcd.com/comics/irony_color.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://imgs.xkcd.com/comics/red_spiders_small.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://imgs.xkcd.com/comics/firefly.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://imgs.xkcd.com/comics/pi.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://imgs.xkcd.com/comics/barrel_mommies.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://imgs.xkcd.com/comics/poisson.jpg",
+        "clicked": false
+    }
+]

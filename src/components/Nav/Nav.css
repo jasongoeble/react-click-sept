@@ -1,0 +1,30 @@
+nav.primary-header {
+    width: 100%;
+    color: #afafaf;
+    display: flex;
+    height: 3rem;
+    font-family: 'Roboto', cursive;
+}
+
+nav li {
+    justify-content: space-evenly;
+    display: flex;
+    color: #fff;
+    font-size: 1.5rem;
+    font-family: 'Roboto';
+}
+
+nav ul {
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    min-height: 4rem;
+}
+
+@media only screen and (max-width: 750px) {
+    #cur-sco,
+    #top-sco {
+        font-size: 2rem;
+    }
+}

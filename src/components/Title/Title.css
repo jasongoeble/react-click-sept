@@ -1,0 +1,11 @@
+.primary-title {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 2rem;
+    font-family: 'Roboto';
+    color: black;
+    margin-bottom: 3rem;
+    padding-left: 3%;
+    padding-right: 3%;
+}
